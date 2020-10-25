@@ -1,5 +1,4 @@
 #!/usr/bin/bash
-
 if [[ $? -eq 0 ]]; then
     echo "ncdu installed"
     exit 0
